@@ -8,12 +8,15 @@
 </p>
 
 - 📝 I write articles sometimes on [https://askii.valentin-thomas.com/fr](https://askii.valentin-thomas.com/fr)
-
 - 📄 Know about my experiences [https://valentin-thomas.com/](https://valentin-thomas.com/)
+- 💼 Download my CV as a PDF [Curriculum](https://valentin-thomas.com/cv/viewer)
+- ⛓️ Take a look about my wallets [majortom327.wallet](https://ud.me/majortom327.wallet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/majortom327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="majortom327" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/majortom327#5746" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="majortom327" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -35,7 +38,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majortom327&show_icons=true&locale=en&layout=compact&theme=radical" alt="majortom327" /></p>
