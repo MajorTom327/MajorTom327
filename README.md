@@ -7,7 +7,6 @@
 
 </p>
 
-- 📝 I write articles sometimes on [https://askii.valentin-thomas.com/fr](https://askii.valentin-thomas.com/fr)
 - 📄 Know about my experiences [https://valentin-thomas.com/](https://valentin-thomas.com/)
 - 💼 Download my CV as a PDF [Curriculum](https://valentin-thomas.com/cv/viewer)
 - ⛓️ Take a look about my wallets [majortom327.wallet](https://ud.me/majortom327.wallet)
