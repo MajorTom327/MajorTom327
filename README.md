@@ -10,6 +10,12 @@
 - 📄 Know about my experiences [https://valentin-thomas.com/](https://valentin-thomas.com/)
 - 💼 Download my CV as a PDF [Curriculum](https://valentin-thomas.com/cv/viewer)
 - ⛓️ Take a look about my wallets [majortom327.wallet](https://ud.me/majortom327.wallet)
+- 📖 Read my blog [blog.majortom327.eth](http://blog.majortom327.eth) _(Require web3 ready browser)_
+- 💸 Sponsorize me:
+  - <img alt="ethereum" src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/static/logo.svg" width="20" />: `majortom327.eth`
+  - <img alt="egld" src="https://raw.githubusercontent.com/multiversx/mx-docs/main/static/img/favicons/safari-pinned-tab.svg" width="20" />: `erd1frkyf7urr8r07fvtkves9v5ns6gul55ezc50vu9a64d0sumrnmqsmt4xtx`
+  - <img alt="bitcoin" src="https://github.com/bitcoin/bitcoin/blob/673acab223c0f896767b1ae784659df9f95452ae/doc/bitcoin_logo_doxygen.png" width="20" />: `bc1qlj9duuzrsyjjkkw8wkwspxuhteq8x73l9sfdpa`
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
