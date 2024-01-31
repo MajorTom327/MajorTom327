@@ -8,7 +8,7 @@
 </p>
 
 - 📄 Know about my experiences [https://valentin-thomas.com/](https://valentin-thomas.com/)
-- 💼 Download my CV as a PDF [Curriculum](https://valentin-thomas.com/cv/viewer)
+- 💼 Download my CV as a PDF [Curriculum](https://valentin-thomas.com/resume/pdf)
 - ⛓️ Take a look about my wallets [majortom327.wallet](https://ud.me/majortom327.wallet)
 - 📖 Read my blog [blog.majortom327.eth](http://blog.majortom327.eth) _(Require web3 ready browser)_
 - 💸 Sponsorize me:
