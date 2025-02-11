@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/majortom327" target="blank"><img align="center" src="./assets/social/twitter.svg" alt="majortom327" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/majortom327" target="blank"><img align="center" src="./assets/social/discord.svg" alt="majortom327" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/majortom327" target="blank"><img align="center" src="./assets/social/linked-in.svg" alt="Valentin Thomas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/valentin-thomas-110236144/" target="blank"><img align="center" src="./assets/social/linked-in.svg" alt="Valentin Thomas" height="30" width="40" /></a>
 
 </p>
 
